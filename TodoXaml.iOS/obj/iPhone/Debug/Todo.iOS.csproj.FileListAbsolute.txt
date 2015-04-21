@@ -1,0 +1,16 @@
+D:\Users\Nicholas\Projects\Xamarin\Self\Todo\PCL\Todo.iOS\bin\iPhone\Debug\QuickTodoiOS.exe
+D:\Users\Nicholas\Projects\Xamarin\Self\Todo\PCL\Todo.iOS\bin\iPhone\Debug\QuickTodoiOS.pdb
+D:\Users\Nicholas\Projects\Xamarin\Self\Todo\PCL\Todo.iOS\bin\iPhone\Debug\QuickTodo.dll
+D:\Users\Nicholas\Projects\Xamarin\Self\Todo\PCL\Todo.iOS\bin\iPhone\Debug\SQLite.Net.dll
+D:\Users\Nicholas\Projects\Xamarin\Self\Todo\PCL\Todo.iOS\bin\iPhone\Debug\SQLite.Net.Platform.XamarinIOS.Unified.dll
+D:\Users\Nicholas\Projects\Xamarin\Self\Todo\PCL\Todo.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+D:\Users\Nicholas\Projects\Xamarin\Self\Todo\PCL\Todo.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\Users\Nicholas\Projects\Xamarin\Self\Todo\PCL\Todo.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+D:\Users\Nicholas\Projects\Xamarin\Self\Todo\PCL\Todo.iOS\bin\iPhone\Debug\QuickTodo.pdb
+D:\Users\Nicholas\Projects\Xamarin\Self\Todo\PCL\Todo.iOS\bin\iPhone\Debug\QuickTodo.dll.mdb
+D:\Users\Nicholas\Projects\Xamarin\Self\Todo\PCL\Todo.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.xml
+D:\Users\Nicholas\Projects\Xamarin\Self\Todo\PCL\Todo.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.xml
+D:\Users\Nicholas\Projects\Xamarin\Self\Todo\PCL\Todo.iOS\obj\iPhone\Debug\
+D:\Users\Nicholas\Projects\Xamarin\Self\Todo\PCL\Todo.iOS\obj\iPhone\Debug\Todo.iOS.csprojResolveAssemblyReference.cache
+D:\Users\Nicholas\Projects\Xamarin\Self\Todo\PCL\Todo.iOS\obj\iPhone\Debug\QuickTodoiOS.exe
+D:\Users\Nicholas\Projects\Xamarin\Self\Todo\PCL\Todo.iOS\obj\iPhone\Debug\QuickTodoiOS.pdb

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 	Our Header. Includes assembly references.
+  		Note the reference to the xmlns:local reference. 
+  		This reference lets us use locally define components and resources. -->
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+			 xmlns:local="clr-namespace:TodoXaml;assembly=TodoXaml" 
+			 x:Class="TodoXaml.TodoListView" 
+			 Title="TodoXam List XAML !">
+
+	<!-- Resources is where we define static assets for use in our xaml
+		 Notice that we have referenced our IsNewConverter  -->
+	<ContentPage.Resources>
+		<ResourceDictionary>
+			<local:IsNewConverter x:Key="IsNewConverter" />
+		</ResourceDictionary>
+	</ContentPage.Resources>
+
+	<!-- Lets add a Toolbar with an Add Button. -->
+	<!-- Activated is the name of the onclick action  -->
+	<ContentPage.ToolbarItems>
+		<ToolbarItem Name="Add" Activated="OnAdd" Order="Primary" Priority="0" Icon="plus.png" />
+	</ContentPage.ToolbarItems>
+
+	<!-- Like an HTML body, here we define our  main content -->
+	<ContentPage.Content>
+		<StackLayout Orientation="Vertical">
+			<ListView ItemsSource="{Binding Items}" ItemSelected="OnSelect" HasUnevenRows="true" SeparatorVisibility="Default">
+				<ListView.ItemTemplate>
+					<DataTemplate>
+						<ViewCell>
+							<ViewCell.View>
+								<StackLayout Orientation="Vertical">
+									<StackLayout Orientation="Horizontal">
+										<Label Text="{Binding Name}" Font="Bold, Large" HorizontalOptions="StartAndExpand" />
+										<Image Source="success.png" HorizontalOptions="End" IsVisible="{Binding Done}" />
+									</StackLayout>
+									<Label Text="{Binding Notes}" HorizontalOptions="StartAndExpand" />
+								</StackLayout>
+							</ViewCell.View>
+						</ViewCell>
+					</DataTemplate>
+				</ListView.ItemTemplate>
+			</ListView>
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>

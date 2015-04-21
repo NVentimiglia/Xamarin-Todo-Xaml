@@ -1,0 +1,14 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="TodoXaml.WinPhone" EntryPointType="TodoXaml.WinPhone.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="TodoXaml.WinPhone" Source="TodoXaml.WinPhone.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls.Toolkit" Source="Microsoft.Phone.Controls.Toolkit.dll" />
+    <AssemblyPart x:Name="SQLite.Net" Source="SQLite.Net.dll" />
+    <AssemblyPart x:Name="SQLite.Net.Platform.WindowsPhone8" Source="SQLite.Net.Platform.WindowsPhone8.dll" />
+    <AssemblyPart x:Name="TodoXaml" Source="TodoXaml.dll" />
+    <AssemblyPart x:Name="Xamarin.Forms.Core" Source="Xamarin.Forms.Core.dll" />
+    <AssemblyPart x:Name="Xamarin.Forms.Platform.WP8" Source="Xamarin.Forms.Platform.WP8.dll" />
+    <AssemblyPart x:Name="Xamarin.Forms.Xaml" Source="Xamarin.Forms.Xaml.dll" />
+    <AssemblyPart x:Name="System.Windows.Interactivity" Source="System.Windows.Interactivity.dll" />
+    <AssemblyPart x:Name="Sqlite" Source="Sqlite.dll" />
+  </Deployment.Parts>
+</Deployment>

@@ -1,0 +1,15 @@
+/Users/nicholasventimiglia/Desktop/TodoXaml/TodoXaml.iOS/obj/iPhone/Debug/mtouch-cache/Link/QuickTodoiOS.exe
+/Users/nicholasventimiglia/Desktop/TodoXaml/TodoXaml.iOS/obj/iPhone/Debug/mtouch-cache/Link/Xamarin.Forms.Platform.iOS.dll
+/Users/nicholasventimiglia/Desktop/TodoXaml/TodoXaml.iOS/obj/iPhone/Debug/mtouch-cache/Link/System.dll
+/Users/nicholasventimiglia/Desktop/TodoXaml/TodoXaml.iOS/obj/iPhone/Debug/mtouch-cache/Link/System.Xml.dll
+/Users/nicholasventimiglia/Desktop/TodoXaml/TodoXaml.iOS/obj/iPhone/Debug/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/nicholasventimiglia/Desktop/TodoXaml/TodoXaml.iOS/obj/iPhone/Debug/mtouch-cache/Link/Xamarin.Forms.Xaml.dll
+/Users/nicholasventimiglia/Desktop/TodoXaml/TodoXaml.iOS/obj/iPhone/Debug/mtouch-cache/Link/TodoXaml.dll
+/Users/nicholasventimiglia/Desktop/TodoXaml/TodoXaml.iOS/obj/iPhone/Debug/mtouch-cache/Link/SQLite.Net.dll
+/Users/nicholasventimiglia/Desktop/TodoXaml/TodoXaml.iOS/obj/iPhone/Debug/mtouch-cache/Link/System.Core.dll
+/Users/nicholasventimiglia/Desktop/TodoXaml/TodoXaml.iOS/obj/iPhone/Debug/mtouch-cache/Link/SQLite.Net.Platform.XamarinIOS.Unified.dll
+/Users/nicholasventimiglia/Desktop/TodoXaml/TodoXaml.iOS/obj/iPhone/Debug/mtouch-cache/Link/Mono.Dynamic.Interpreter.dll
+/Users/nicholasventimiglia/Desktop/TodoXaml/TodoXaml.iOS/obj/iPhone/Debug/mtouch-cache/Link/System.Net.Http.dll
+/Users/nicholasventimiglia/Desktop/TodoXaml/TodoXaml.iOS/obj/iPhone/Debug/mtouch-cache/Link/Xamarin.Forms.Core.dll
+/Users/nicholasventimiglia/Desktop/TodoXaml/TodoXaml.iOS/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll
+/Users/nicholasventimiglia/Desktop/TodoXaml/TodoXaml.iOS/obj/iPhone/Debug/mtouch-cache/Link/System.Runtime.Serialization.dll

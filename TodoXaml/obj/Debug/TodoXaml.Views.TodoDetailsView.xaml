@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+			 xmlns:local="clr-namespace:TodoXaml;assembly=TodoXaml" 
+			 x:Class="TodoXaml.TodoDetailsView">
+
+	<!-- Resources is where we define static assets for use in our xaml
+		 Notice that we have referenced our IsNewConverter  -->
+	<ContentPage.Resources>
+		<ResourceDictionary>
+			<local:IsNewConverter x:Key="IsNewConverter" />
+		</ResourceDictionary>
+	</ContentPage.Resources>
+
+	<ContentPage.Content>
+		<StackLayout Orientation="Vertical">
+
+			<Label Text="Name" StyleId="italic" />
+			<Entry Text="{Binding Name, Mode=TwoWay}" />
+
+			<Label Text="Notes" StyleId="italic" />
+			<Entry Text="{Binding Notes, Mode=TwoWay}" />
+
+			<Label Text="IsDone" StyleId="italic"/>
+			<Switch IsToggled="{Binding Done, Mode=TwoWay}" />
+
+			<StackLayout Orientation="Horizontal">
+				<Button Text="Save" Clicked="OnSave" />
+				<!-- Here we use our IsNewConverter to toggle the visibility of a button.
+                	 Also notice how we pass in a parameter to make our converter more robust. -->
+				<Button Text="Delete" Clicked="OnDelete" IsVisible="{Binding ID, Converter={StaticResource IsNewConverter}, ConverterParameter=true}" />
+				<Button Text="Cancel" Clicked="OnCancel" IsVisible="{Binding ID, Converter={StaticResource IsNewConverter}, ConverterParameter=false}" />
+				<Button Text="Speak" Clicked="OnSpeak" />
+			</StackLayout>
+
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>

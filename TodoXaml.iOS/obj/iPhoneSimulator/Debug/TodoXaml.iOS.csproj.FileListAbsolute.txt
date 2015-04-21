@@ -1,0 +1,16 @@
+D:\Users\Nicholas\Projects\Xamarin\Self\TodoXaml\TodoXaml.iOS\bin\iPhoneSimulator\Debug\TodoiOS.exe
+D:\Users\Nicholas\Projects\Xamarin\Self\TodoXaml\TodoXaml.iOS\bin\iPhoneSimulator\Debug\TodoiOS.pdb
+D:\Users\Nicholas\Projects\Xamarin\Self\TodoXaml\TodoXaml.iOS\bin\iPhoneSimulator\Debug\SQLite.Net.dll
+D:\Users\Nicholas\Projects\Xamarin\Self\TodoXaml\TodoXaml.iOS\bin\iPhoneSimulator\Debug\SQLite.Net.Platform.XamarinIOS.Unified.dll
+D:\Users\Nicholas\Projects\Xamarin\Self\TodoXaml\TodoXaml.iOS\bin\iPhoneSimulator\Debug\TodoXaml.dll
+D:\Users\Nicholas\Projects\Xamarin\Self\TodoXaml\TodoXaml.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+D:\Users\Nicholas\Projects\Xamarin\Self\TodoXaml\TodoXaml.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\Users\Nicholas\Projects\Xamarin\Self\TodoXaml\TodoXaml.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+D:\Users\Nicholas\Projects\Xamarin\Self\TodoXaml\TodoXaml.iOS\bin\iPhoneSimulator\Debug\TodoXaml.pdb
+D:\Users\Nicholas\Projects\Xamarin\Self\TodoXaml\TodoXaml.iOS\bin\iPhoneSimulator\Debug\TodoXaml.dll.mdb
+D:\Users\Nicholas\Projects\Xamarin\Self\TodoXaml\TodoXaml.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.xml
+D:\Users\Nicholas\Projects\Xamarin\Self\TodoXaml\TodoXaml.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.xml
+D:\Users\Nicholas\Projects\Xamarin\Self\TodoXaml\TodoXaml.iOS\obj\iPhoneSimulator\Debug\
+D:\Users\Nicholas\Projects\Xamarin\Self\TodoXaml\TodoXaml.iOS\obj\iPhoneSimulator\Debug\TodoXaml.iOS.csprojResolveAssemblyReference.cache
+D:\Users\Nicholas\Projects\Xamarin\Self\TodoXaml\TodoXaml.iOS\obj\iPhoneSimulator\Debug\TodoiOS.exe
+D:\Users\Nicholas\Projects\Xamarin\Self\TodoXaml\TodoXaml.iOS\obj\iPhoneSimulator\Debug\TodoiOS.pdb
