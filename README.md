@@ -9,7 +9,7 @@ Original : [https://github.com/xamarin/xamarin-forms-samples](https://github.com
 - Demonstrates basic data binding with value converters
 - Tested on iOS, Android and WindowsPhone
 
-For a complete explanation [**please visit my blog**](http://nventimiglia.github.io/NVentimiglia/). I go through every step in building this application and even have a **video** walk-through.
+For a complete explanation [**please visit my associated blog post**](http://nventimiglia.github.io/NVentimiglia/xamarin/2015/04/18/Todo-Xaml/). I go through every step in building this application and even have a **video** walk-through.
 
 
 Todo (Xamarin.Forms)
