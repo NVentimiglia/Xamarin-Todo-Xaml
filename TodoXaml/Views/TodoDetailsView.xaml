@@ -32,7 +32,6 @@
 				<Button Text="Cancel" Clicked="OnCancel" IsVisible="{Binding ID, Converter={StaticResource IsNewConverter}, ConverterParameter=false}" />
 				<Button Text="Speak" Clicked="OnSpeak" />
 			</StackLayout>
-
 		</StackLayout>
 	</ContentPage.Content>
 </ContentPage>

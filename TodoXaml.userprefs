@@ -1,11 +1,12 @@
-﻿<Properties StartupItem="TodoXaml.iOS\TodoXaml.iOS.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TodoXaml\Views\TodoListView.xaml.cs">
+﻿<Properties StartupItem="TodoXaml.Droid\TodoXaml.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 7 (Jelly Bean)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TodoXaml\Views\TodoListView.xaml">
     <Files>
-      <File FileName="TodoXaml\App.cs" Line="18" Column="43" />
-      <File FileName="TodoXaml\App.xaml" Line="8" Column="107" />
-      <File FileName="TodoXaml.Droid\MainActivity.cs" Line="22" Column="31" />
-      <File FileName="TodoXaml\Views\TodoListView.xaml.cs" Line="64" Column="18" />
+      <File FileName="TodoXaml\Views\TodoDetailsView.xaml" Line="32" Column="26" />
+      <File FileName="TodoXaml\Behaviors\IsNewConverter.cs" Line="22" Column="4" />
+      <File FileName="TodoXaml\Behaviors\BoolInverter.cs" Line="18" Column="23" />
+      <File FileName="TodoXaml\Views\TodoDetailsView.xaml.cs" Line="33" Column="4" />
+      <File FileName="TodoXaml\Views\TodoListView.xaml" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

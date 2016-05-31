@@ -15,8 +15,8 @@ namespace TodoXaml
 		public IEnumerable<TodoItem> Items {
 			get { return _items; }
 			set { 
-				// equlity check
-				if (_items == value)
+				// equality check
+				if (Equals(_items, value))
 					return;
 				// set the backing field
 				_items = value;
